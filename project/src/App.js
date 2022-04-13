@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -6,8 +6,6 @@ function App() {
     <div className="App">
 
       <h1> hi this shiva teja from brn</h1>
-
-
 
     </div>
   );

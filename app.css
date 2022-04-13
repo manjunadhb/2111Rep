@@ -17,5 +17,12 @@ h1{
 }
 #names
 {
+    border:  solid ;
     background-color: rgba(0, 128, 0, 0.61);
+    width: 50%;
+
+    margin-left: 25%;
+    border-radius: 10px;
+    text-align: center;
+    font-style: italic;
 }

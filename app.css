@@ -15,3 +15,7 @@ h1{
     margin: 10px 0;
     font-weight: 400;
 }
+#names
+{
+    background-color: rgba(0, 128, 0, 0.61);
+}

@@ -9,11 +9,10 @@
 
 body
 {
-<<<<<<< HEAD
     background-color: cadetblue;
-=======
+
     background-color: rgba(255, 166, 0, 0.774);
->>>>>>> bc7a4bbe1aa9e862eac6920a13eff193676ce164
+
 }
 h1{
     margin: 10px 0;

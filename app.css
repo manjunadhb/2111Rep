@@ -9,10 +9,25 @@
 
 body
 {
+<<<<<<< HEAD
     background-color: cadetblue;
+=======
+    background-color: rgba(255, 166, 0, 0.774);
+>>>>>>> bc7a4bbe1aa9e862eac6920a13eff193676ce164
 }
 h1{
     margin: 10px 0;
     font-weight: 400;
     
+}
+#names
+{
+    border:  solid ;
+    background-color: rgba(245, 245, 245, 0.733);
+    width: 50%;
+
+    margin-left: 25%;
+    border-radius: 10px;
+    text-align: center;
+    font-style: italic;
 }
